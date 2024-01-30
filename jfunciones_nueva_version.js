@@ -902,6 +902,8 @@ function Agregar_Financimiento_CP() {
                          '       <td>' +
                          '         <select class="form-control" id="Tipo_Prod_CP_' + idx + '" onchange="Calcular_Propuestas_CP();">' +
                          '           <option value="Incremento de Tarjeta Capital de Trabajo">Incremento de Tarjeta Capital de Trabajo</option>' +
+	    		 '           <option value="Fondo Impulso MyPerú - Capital de trabajo">Fondo Impulso MyPerú - Capital de trabajo</option>' +
+                         '           <option value="Fondo Impulso MyPerú - Subrogación de deuda">Fondo Impulso MyPerú - Subrogación de deuda</option>' +
                          '           <option value="Línea Comex">Línea Comex</option>' +
                          '           <option value="Línea de Dcto de Letras">Línea de Dcto de Letras</option>' +
                          '           <option value="Línea Gracia">Línea Gracia</option>' +
